@@ -1,2 +1,2 @@
-# Kids_Neuron-Assignments
-Submission of all the assignments are done over here.
+# Kids_Neuron_Beginner-Assignments
+Submission of all the beginner level's assignments are done over here.
